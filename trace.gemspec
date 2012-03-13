@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = "trace"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.authors     = ["Josep M. Bach"]
   s.email       = ["josep.m.bach@gmail.com"]
   s.homepage    = "http://github.com/codegram/trace"
