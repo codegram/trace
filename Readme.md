@@ -26,7 +26,7 @@ end
 trace do
   foo(2)
 end
-```ruby
+```
 
 The output will be like this:
 
